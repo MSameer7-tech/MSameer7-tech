@@ -1,5 +1,21 @@
+# Hi, I'm Sameer 👋
+
+🚀 AI/ML Enthusiast | Python Developer | Building Real Projects
+
+I'm a BTech student focused on Artificial Intelligence and Machine Learning.
+I like building practical projects that solve real problems and help me learn by doing.
+
 # 💫 About Me:
-💻 I’m currently working on<br>Building AI-based projects (Chatbots, Python)<br>Exploring real-world applications of AI in daily use<br>🤝 I’m looking to collaborate on<br>AI/ML projects<br>Hackathons and innovative tech ideas<br>Open-source beginner-friendly contributions<br>🧠 I’m looking for help with<br>Improving ML model deployment<br>Scaling full-stack AI applications<br>Writing clean, production-level code<br>🌱 I’m currently learning<br>Machine Learning fundamentals<br>FastAPI & backend systems<br>Prompt engineering & LLM integration<br>💬 Ask me about<br>Python basics<br>AI project ideas<br>Getting started with GitHub<br><br><br>I believe consistency > talent in tech<br>I’m building my way into AI, one project at a time
+💻 I’m currently working on
+<br>Building AI-based projects (Chatbots, Python)<br>Exploring real-world applications of AI in daily use
+
+<br>🤝 I’m looking to collaborate on<br>AI/ML projects<br>Hackathons and innovative tech ideas<br>Open-source beginner-friendly contributions
+
+<br>🧠 I’m looking for help with<br>Improving ML model deployment<br>Scaling full-stack AI applications<br>Writing clean, production-level code
+
+<br>🌱 I’m currently learning<br>Machine Learning fundamentals<br>FastAPI & backend systems<br>Prompt engineering & LLM integration
+
+<br>💬 Ask me about<br>Python basics<br>AI project ideas<br>Beginner ML concepts<br><br><br>I believe consistency > talent in tech<br>I’m building my way into AI, one project at a time
 
 
 ## 🌐 Socials:
