@@ -3,7 +3,7 @@
 🚀 AI/ML Enthusiast | Python Developer | Building Real Projects
 
 I'm a BTech student focused on Artificial Intelligence and Machine Learning.
-I like building practical projects that solve real problems and help me learn by doing.
+I like building practical projects that solve real problems and help me learn by doing.<br><br><br><br>
 
 ## 💫 About Me:
 💻 I’m currently working on
