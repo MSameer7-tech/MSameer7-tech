@@ -11,7 +11,7 @@ I like building practical projects that solve real problems and help me learn.<b
 <br>🌱 I’m currently learning<br>  Machine Learning fundamentals<br>  FastAPI & backend systems<br>  Prompt engineering & LLM integration
 
 <br>💬 Ask me about<br>  Python basics<br>  AI project ideas<br>  Beginner ML concepts<br><br><br>I believe consistency > talent in tech<br>I’m building my way into AI, one project at a time<br><br><br>
-<br>
+<br><br>
 
 
 ## 🌐 Socials:
