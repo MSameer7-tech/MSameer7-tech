@@ -27,7 +27,7 @@
 
 <code>AI/ML • Full Stack • GenAI • RAG • AI Agents</code>
 
-<br><br>
+<br>
 
 <a href="https://github.com/MSameer7-tech">
 <img src="https://img.shields.io/badge/GitHub-MSameer7--tech-181717?style=flat-square&logo=github" alt="GitHub" />
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Portfolio-isameerxo.vercel.app-0d1117?style=flat-square&logo=vercel" alt="Portfolio" />
 </a>
 
-<br><br>
+<br>
 
 <code>Building things with Python, React, FastAPI and AI.</code>
 
