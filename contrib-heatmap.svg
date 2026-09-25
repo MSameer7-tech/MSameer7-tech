@@ -253,7 +253,7 @@
 <rect class="c" style="animation-delay:0.396s" x="574" y="86" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.407s" x="574" y="102" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.418s" x="574" y="118" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.429s" x="574" y="134" width="13" height="13" rx="3" fill="#0e4429"/>
+<rect class="c" style="animation-delay:0.429s" x="574" y="134" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.374s" x="590" y="38" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.385s" x="590" y="54" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.396s" x="590" y="70" width="13" height="13" rx="3" fill="#161b22"/>
@@ -261,7 +261,7 @@
 <rect class="c" style="animation-delay:0.418s" x="590" y="102" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.429s" x="590" y="118" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.440s" x="590" y="134" width="13" height="13" rx="3" fill="#0e4429"/>
-<rect class="c" style="animation-delay:0.385s" x="606" y="38" width="13" height="13" rx="3" fill="#0e4429"/>
+<rect class="c" style="animation-delay:0.385s" x="606" y="38" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.396s" x="606" y="54" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.407s" x="606" y="70" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.418s" x="606" y="86" width="13" height="13" rx="3" fill="#0e4429"/>
@@ -269,7 +269,7 @@
 <rect class="c" style="animation-delay:0.440s" x="606" y="118" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.451s" x="606" y="134" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.396s" x="622" y="38" width="13" height="13" rx="3" fill="#0e4429"/>
-<rect class="c" style="animation-delay:0.407s" x="622" y="54" width="13" height="13" rx="3" fill="#0e4429"/>
+<rect class="c" style="animation-delay:0.407s" x="622" y="54" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.418s" x="622" y="70" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.429s" x="622" y="86" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.440s" x="622" y="102" width="13" height="13" rx="3" fill="#0e4429"/>
@@ -278,8 +278,8 @@
 <rect class="c" style="animation-delay:0.407s" x="638" y="38" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.418s" x="638" y="54" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.429s" x="638" y="70" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.440s" x="638" y="86" width="13" height="13" rx="3" fill="#69f0a0"/>
-<rect class="c" style="animation-delay:0.451s" x="638" y="102" width="13" height="13" rx="3" fill="#26a641"/>
+<rect class="c" style="animation-delay:0.440s" x="638" y="86" width="13" height="13" rx="3" fill="#26a641"/>
+<rect class="c" style="animation-delay:0.451s" x="638" y="102" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.462s" x="638" y="118" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.473s" x="638" y="134" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.418s" x="654" y="38" width="13" height="13" rx="3" fill="#161b22"/>
@@ -386,7 +386,7 @@
 <rect class="c" style="animation-delay:0.605s" x="878" y="86" width="13" height="13" rx="3" fill="#26a641"/>
 <rect class="c" style="animation-delay:0.616s" x="878" y="102" width="13" height="13" rx="3" fill="#69f0a0"/>
 <rect class="c" style="animation-delay:0.627s" x="878" y="118" width="13" height="13" rx="3" fill="#69f0a0"/>
-<text x="46" y="180" fill="#c9d1d9">628 contributions in the last year · 21-day streak</text>
+<text x="46" y="180" fill="#c9d1d9">605 contributions in the last year · 21-day streak</text>
 <text x="696" y="180" fill="#8b949e">Less</text>
 <rect x="736" y="169" width="13" height="13" rx="3" fill="#161b22"/>
 <rect x="752" y="169" width="13" height="13" rx="3" fill="#0e4429"/>
