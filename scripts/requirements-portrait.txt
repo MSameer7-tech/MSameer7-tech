@@ -1,0 +1,7 @@
+# Local portrait preparation only.
+# Do not install this in GitHub Actions.
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime

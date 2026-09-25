@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Private/local portrait source files
+sameer.jpeg
+sameer.jpg
+source-prepped.png
